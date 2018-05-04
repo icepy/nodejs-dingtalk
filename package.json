@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-dingtalk",
+  "version": "0.1.0",
+  "description": "DingTalk Node.js SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icepy/nodejs-dingtalk.git"
+  },
+  "keywords": [
+    "dingtalk",
+    "SDK"
+  ],
+  "author": "icepy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icepy/nodejs-dingtalk/issues"
+  },
+  "homepage": "https://github.com/icepy/nodejs-dingtalk#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
